@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CACA,EACE,qBACF,CAEA,iBACE,kCACF","file":"main.1446db00.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n}\n* {\n  box-sizing: border-box;\n}\n\n.MuiSwitch-track {\n  background-color: #e52d27 !important;\n}\n"]}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://amine-baya.github.io/csb-3c7nx6/static/css/main.1446db00.chunk.css",
+    "main.js": "https://amine-baya.github.io/csb-3c7nx6/static/js/main.77a1e26d.chunk.js",
+    "main.js.map": "https://amine-baya.github.io/csb-3c7nx6/static/js/main.77a1e26d.chunk.js.map",
+    "runtime-main.js": "https://amine-baya.github.io/csb-3c7nx6/static/js/runtime-main.4fe10f93.js",
+    "runtime-main.js.map": "https://amine-baya.github.io/csb-3c7nx6/static/js/runtime-main.4fe10f93.js.map",
+    "static/js/2.be681e47.chunk.js": "https://amine-baya.github.io/csb-3c7nx6/static/js/2.be681e47.chunk.js",
+    "static/js/2.be681e47.chunk.js.map": "https://amine-baya.github.io/csb-3c7nx6/static/js/2.be681e47.chunk.js.map",
+    "index.html": "https://amine-baya.github.io/csb-3c7nx6/index.html",
+    "static/css/main.1446db00.chunk.css.map": "https://amine-baya.github.io/csb-3c7nx6/static/css/main.1446db00.chunk.css.map",
+    "static/js/2.be681e47.chunk.js.LICENSE.txt": "https://amine-baya.github.io/csb-3c7nx6/static/js/2.be681e47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fe10f93.js",
+    "static/js/2.be681e47.chunk.js",
+    "static/css/main.1446db00.chunk.css",
+    "static/js/main.77a1e26d.chunk.js"
+  ]
+}
